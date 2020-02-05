@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbe13acb-bc04-4383-a112-8d8beb484512" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedgo/basic/limit_chan.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yuheng/channel.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-184" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yuheng/channel_async.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yuheng/close_channel.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-372" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yuheng/select.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-360" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yuheng/map.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedgo/basic/goroutine_exit.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-219" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedgo/basic/goroutine_exit2.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-338" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedgo/basic/channel_search.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedgo/basic/goroutine_exit3.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13/libexec" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/reflect_iface.go" />
+        <option value="$PROJECT_DIR$/reflect_type.go" />
+        <option value="$PROJECT_DIR$/reflect_impl.go" />
+        <option value="$PROJECT_DIR$/reflect_copy.go" />
+        <option value="$PROJECT_DIR$/reflect_method.go" />
+        <option value="$PROJECT_DIR$/reflect_genericType.go" />
+        <option value="$PROJECT_DIR$/yuheng/reflect_genericType.go" />
+        <option value="$PROJECT_DIR$/advancedgo/atomic.go" />
+        <option value="$PROJECT_DIR$/advancedgo/singleton.go" />
+        <option value="$PROJECT_DIR$/advancedgo/singleton_2.go" />
+        <option value="$PROJECT_DIR$/advancedgo/memmodel.go" />
+        <option value="$PROJECT_DIR$/advancedgo/lock.go" />
+        <option value="$PROJECT_DIR$/advancedgo/producter_consumer.go" />
+        <option value="$PROJECT_DIR$/advancedgo/pub_sub.go" />
+        <option value="$PROJECT_DIR$/advancedgo/limit_chan.go" />
+        <option value="$PROJECT_DIR$/advancedgo/channel_search.go" />
+        <option value="$PROJECT_DIR$/advancedgo/prime.go" />
+        <option value="$PROJECT_DIR$/advancedgo/goroutine_exit.go" />
+        <option value="$PROJECT_DIR$/advancedgo/goroutine_exit2.go" />
+        <option value="$PROJECT_DIR$/advancedgo/goroutine_exit3.go" />
+        <option value="$PROJECT_DIR$/advancedgo/prime_2.go" />
+        <option value="$PROJECT_DIR$/advancedgo/basic/copyfile.go" />
+        <option value="$PROJECT_DIR$/advancedgo/basic/recover.go" />
+        <option value="$PROJECT_DIR$/advancedgo/assembly/pkg.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/helloService/service.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/helloService/client.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/helloService/server.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/jsonrpc/server.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/jsonrpc/client.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/httprpc/server.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/httprpc/client.go" />
+        <option value="$PROJECT_DIR$/advancedgo/basic/recover2.go" />
+        <option value="$PROJECT_DIR$/openbilibili/ratelimit.go" />
+        <option value="$PROJECT_DIR$/openbilibili/func.go" />
+        <option value="$PROJECT_DIR$/yuheng/range.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/protobuf/hellosvc.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/protobuf/hello.proto" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/grpc/hello.proto" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/grpc/svc/hello.pb.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/grpc/hello.pb.go" />
+        <option value="$PROJECT_DIR$/advancedgo/rpc/grpc/server.go" />
+        <option value="$PROJECT_DIR$/flysnow/alias.go" />
+        <option value="$PROJECT_DIR$/flysnow/unsafeptr.go" />
+        <option value="$PROJECT_DIR$/flysnow/struct_tag.go" />
+        <option value="$PROJECT_DIR$/golangcn/limit_g_nums.go" />
+        <option value="$PROJECT_DIR$/flysnow/benchmark.go" />
+        <option value="$PROJECT_DIR$/flysnow/benchmark_test.go" />
+        <option value="$PROJECT_DIR$/loadbalance/lb.go" />
+        <option value="$PROJECT_DIR$/yuheng/map.go" />
+        <option value="$PROJECT_DIR$/advancedgo/basic/limit_chan.go" />
+        <option value="$PROJECT_DIR$/yuheng/channel_async.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="239" />
+    <option name="y" value="138" />
+    <option name="width" value="1600" />
+    <option name="height" value="804" />
+  </component>
+  <component name="ProjectId" id="1XNgE8Zv0lVrzWkC24QFPKJB3DG" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedgo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedgo" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="flysnow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="yuheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/advancedgo/rpc/grpc/svc" />
+      <recent name="$PROJECT_DIR$/yuheng" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build channel_async.go">
+    <configuration name="go build channel_async.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learn-go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/yuheng/channel_async.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build lb.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learn-go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/loadbalance/lb.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build limit_chan.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learn-go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/advancedgo/basic/limit_chan.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build struct_tag.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learn-go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/flysnow/struct_tag.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkSprintf in benchmark_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-go" />
+      <working_directory value="$PROJECT_DIR$/flysnow" />
+      <go_parameters value="-i" />
+      <framework value="gobench" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/flysnow/benchmark_test.go" />
+      <pattern value="^BenchmarkSprintf$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build struct_tag.go" />
+      <item itemvalue="Go Build.go build lb.go" />
+      <item itemvalue="Go Build.go build limit_chan.go" />
+      <item itemvalue="Go Build.go build channel_async.go" />
+      <item itemvalue="Go Test.BenchmarkSprintf in benchmark_test.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build channel_async.go" />
+        <item itemvalue="Go Build.go build limit_chan.go" />
+        <item itemvalue="Go Build.go build lb.go" />
+        <item itemvalue="Go Test.BenchmarkSprintf in benchmark_test.go" />
+        <item itemvalue="Go Build.go build struct_tag.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BenchmarkTest_in_defer_test_go - 2019.07.05 at 14h 42m 47s.xml">
+      <configuration name="BenchmarkTest in defer_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkSprintf_in_benchmark_test_go - 2019.07.14 at 15h 05m 21s.xml">
+      <configuration name="BenchmarkSprintf in benchmark_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1366" height="689" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23515981" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.48442906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39885223" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49910873" weight="0.5035765" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50089127" side_tool="true" weight="0.5050215" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/advancedgo/singleton_2.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/memmodel.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/lock.go" />
+    <entry file="file://$PROJECT_DIR$/yuheng/paramter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuheng/pointer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/producter_consumer.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/pub_sub.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/limit_chan.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/channel_search.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/goroutine_exit.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/goroutine_exit2.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/goroutine_exit3.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/prime.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/prime_2.go" />
+    <entry file="file:///usr/local/Cellar/go/1.12.4/libexec/src/runtime/panic.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/assembly/pkg.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/helloService/service.go" />
+    <entry file="file://$PROJECT_DIR$/advancedgo/basic/copyfile.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/basic/recover.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/basic/recover2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/jsonrpc/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openbilibili/ratelimit.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openbilibili/func.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuheng/range.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="23" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/protobuf/hellosvc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/jsonrpc/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/protobuf/hello.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/protobuf/hello.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="94" column="51" selection-start-line="94" selection-start-column="51" selection-end-line="94" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/helloService/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/helloService/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" selection-start-line="8" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/httprpc/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/grpc/hello.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/httprpc/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/grpc/hello.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="161" selection-start-line="5" selection-end-line="161" />
+          <folding>
+            <element signature="e#87#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/rpc/grpc/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#14#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flysnow/alias.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flysnow/unsafeptr.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flysnow/struct_tag.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golangcn/limit_g_nums.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flysnow/benchmark_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loadbalance/lb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuheng/map.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/basic/goroutine_exit.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/basic/goroutine_exit2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/basic/channel_search.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/basic/goroutine_exit3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedgo/basic/limit_chan.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuheng/channel.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuheng/close_channel.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-372" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuheng/select.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuheng/channel_async.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
